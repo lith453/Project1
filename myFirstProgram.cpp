@@ -10,12 +10,12 @@ int main () {
     bool myBool     = true;
     string myString = "Hello, world! My old friend!";
     
-    cout << "Integer: " << myInt <<endl;
-    cout << "Float: " << myFloat <<endl;
-    cout << "Double: " << myDouble <<endl;
-    cout << "Character: " << myChar <<endl;
-    cout << "Boolean: " << myBool <<endl;
-    cout << "String: " << myString <<endl;
+    cout << "Integer: "   << myInt    <<endl;
+    cout << "Float: "     << myFloat  <<endl;
+    cout << "Double: "    << myDouble <<endl;
+    cout << "Character: " << myChar   <<endl;
+    cout << "Boolean: "   << myBool   <<endl;
+    cout << "String: "    << myString <<endl;
 
-  //cout << "I love branches";
+
     return 0;
