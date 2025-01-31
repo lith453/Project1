@@ -8,7 +8,7 @@ int main () {
     double myDouble =2.78912;
     char myChar     ='A';
     bool myBool     = true;
-    string myString = "Hello, world!";
+    string myString = "Hello, world! My old friend!";
     
     cout << "Integer: " << myInt <<endl;
     cout << "Float: " << myFloat <<endl;
@@ -17,5 +17,6 @@ int main () {
     cout << "Boolean: " << myBool <<endl;
     cout << "String: " << myString <<endl;
 
+    cout << "I love branches";
     return 0;
 }
