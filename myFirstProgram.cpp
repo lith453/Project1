@@ -17,6 +17,6 @@ int main () {
     cout << "Boolean: " << myBool <<endl;
     cout << "String: " << myString <<endl;
 
-    cout << "I love branches";
+  //cout << "I love branches";
     return 0;
 }
